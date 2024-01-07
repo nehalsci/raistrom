@@ -1,0 +1,21 @@
+{
+  "name": "raistrom",
+  "description": "",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nehalsci/raistrom"
+  },
+  "author": {
+    "name": "Nehal",
+    "url": "https://github.com/nehalsci"
+  },
+  "homepage": "https://github.com/raistrom/raistrom#readme",
+  "bugs": {
+    "url": "https://github.com/raistrom/raistrom/issues",
+  },
+  "license": "MIT",
+  "private": false
+}
